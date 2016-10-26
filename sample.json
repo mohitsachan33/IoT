@@ -1,0 +1,25 @@
+{
+"status" : [
+  {
+  "device-id": "NM1-StudyRoom",
+  "pin16": "0-Lamp",
+  "pin05": "1-Fan",
+  "pin04": "0-Tube",
+  "pin00": "1-Music"
+  },
+  {
+  "device-id": "NM2-DiningRoom",
+  "pin16": "1-Fan",
+  "pin05": "0-Fan",
+  "pin04": "0-Tube",
+  "pin00": "0-Curtain"
+  },
+  {
+  "device-id": "NM3-BedRoom",
+  "pin16": "1-Lamp",
+  "pin05": "1-Exhaust",
+  "pin04": "0-AC",
+  "pin00": "1-TV"
+  }
+  ]
+}
