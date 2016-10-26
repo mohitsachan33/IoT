@@ -1,5 +1,5 @@
 <?php  
-// send the command to NodeMCU like this- /change.php?id=NM2&pin=16&toggle=off
+// send the command to NodeMCU - /change.php?id=NM2&pin=16&toggle=off
 $deviceId = $_GET['id'];
 $gpioPin = $_GET['pin'];
 $toggle = $_GET['toggle'];
