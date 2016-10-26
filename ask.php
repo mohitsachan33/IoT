@@ -7,5 +7,4 @@ foreach ($stats->status as $i => $stat) {
 		echo dechex(substr($stat->pin16,0,1)*8+substr($stat->pin05,0,1)*4+substr($stat->pin04,0,1)*2+substr($stat->pin00,0,1));
 	} 
 }
-?><?php
 ?>
