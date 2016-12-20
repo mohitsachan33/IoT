@@ -1,5 +1,6 @@
 <?php
 // NodeMCU will always check this URL /ask.php?id=NM1
+//changed by kaushik
 $json_file = file_get_contents('sample.json');
 $stats = json_decode($json_file);
 $id=$_GET['id'];
