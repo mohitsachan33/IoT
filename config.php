@@ -1,5 +1,6 @@
 <?php
 // creates the JSON file - /config.php?v=3-NM20000xCu101042u0010
+//edited by mohit
 $val=$_GET['v'];
 $noOfDevices=substr($val,0,strpos($val,'-'));
 $d = array();
